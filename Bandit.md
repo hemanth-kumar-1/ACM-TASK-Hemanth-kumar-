@@ -1,4 +1,4 @@
-# Approaching to challenges
+![image](https://github.com/hemanth-kumar-1/ACM-TASK-Hemanth-kumar-/assets/160735662/df5bc089-a8bc-4e7b-a5cf-da7a7ec166c9)# Approaching to challenges
 ## LEVEL -0
 connecting to the host using ssh command, with given username and password.
 
@@ -20,6 +20,11 @@ After moving to the directory inhere.
 
 There will be a hidden file to open it use 'ls -a' command
 
-use cat command to open fiiles in it.
-
 password = 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+## LEVEL -4
+use file./* to see which are the files that are readable.we see file07 is readable.
+
+use cat./-file07 to see content.
+
+password = lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
