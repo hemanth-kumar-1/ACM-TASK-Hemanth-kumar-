@@ -1,4 +1,4 @@
-![image](https://github.com/hemanth-kumar-1/ACM-TASK-Hemanth-kumar-/assets/160735662/df5bc089-a8bc-4e7b-a5cf-da7a7ec166c9)# Approaching to challenges
+# Approaching to challenges
 ## LEVEL -0
 connecting to the host using ssh command, with given username and password.
 
