@@ -81,3 +81,14 @@ The given text is a shift cipher with key 13.After decoding
 output = The password is JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 password = JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+
+## LEVEL -12
+After creating a temporary working directory.
+
+we should decompress the file many times. It gives zip(.gz),bzip(.bz2),tar(.tar)files.
+
+we need to change the extensions int them to decompress using mv command.
+
+output = The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+
+password = wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
