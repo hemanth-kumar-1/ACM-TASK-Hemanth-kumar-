@@ -44,3 +44,10 @@ wee will see list of files, most of them are permission denied and one file can 
 copy the path use cat command to open it.
 
 password = z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+
+## LEVEL -7
+we use combination of two commands.That are cat and grep.
+
+cat data.txt | grep millionth
+
+password = TESKZC0XvTetK0S9xNwm25STk5iWrBvP
