@@ -28,3 +28,10 @@ use file./* to see which are the files that are readable.we see file07 is readab
 use cat./-file07 to see content.
 
 password = lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+## LEVEL -5
+use find command to search file with 1033 bytes size."find -size 1033c"
+
+c for to check in bytes
+
+passwword = P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
