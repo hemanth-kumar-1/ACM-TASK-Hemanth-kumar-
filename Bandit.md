@@ -60,3 +60,8 @@ uniq -u gives the uniq line in the series.
 sort data.txt | uniq -u is the command.
 
 password = EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+## LEVEL -9
+We use strings command to check out the readable messages in the file.
+
+password = G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
