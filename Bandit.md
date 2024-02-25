@@ -74,3 +74,10 @@ cat data.txt | base64 -d is the command.
 output = The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
 password = 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+
+## LEVEL -11
+The given text is a shift cipher with key 13.After decoding
+
+output = The password is JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+
+password = JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
