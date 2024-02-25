@@ -65,3 +65,12 @@ password = EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 We use strings command to check out the readable messages in the file.
 
 password = G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+
+## LEVEL -10
+The given file is a base64 encrypted one.To decrypt it we use base64 -d.
+
+cat data.txt | base64 -d is the command.
+
+output = The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+
+password = 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
