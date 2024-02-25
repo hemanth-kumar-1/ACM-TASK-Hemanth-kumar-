@@ -51,3 +51,12 @@ we use combination of two commands.That are cat and grep.
 cat data.txt | grep millionth
 
 password = TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
+## LEVEL -8
+we use uniq command to solve.To use uniq command the checked lines should be adjacent.
+
+uniq -u gives the uniq line in the series.
+
+sort data.txt | uniq -u is the command.
+
+password = EN632PlfYiZbn3PhVK3XOGSlNInNE00t
