@@ -35,3 +35,12 @@ use find command to search file with 1033 bytes size."find -size 1033c"
 c for to check in bytes
 
 passwword = P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+## LEVEL -6
+use find command :- "find / -user bandit7 -group bandit6 -size 33c"
+
+wee will see list of files, most of them are permission denied and one file can be opened.
+
+copy the path use cat command to open it.
+
+password = z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
