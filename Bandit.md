@@ -92,3 +92,19 @@ we need to change the extensions int them to decompress using mv command.
 output = The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 password = wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+
+## LEVEL -13
+There wil be a file with key in the file store the key in a file.
+
+now connect to level14,with using the key.
+
+sudo ssh -p 2220 -i bandit14 bandit14@bandit.labs.overthewire.org
+
+## LEVEL -14
+After connecting to server.open the file by using the given path with cat command.
+
+we will see a temp key that has to be submitted.
+
+now submit the temp key to the server by using "nc" command(nc -v localhost 30000)
+
+password = jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
