@@ -108,3 +108,12 @@ we will see a temp key that has to be submitted.
 now submit the temp key to the server by using "nc" command(nc -v localhost 30000)
 
 password = jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+
+## LEVEL -15
+Connect to the ssl server by using openssl cmd
+
+openssl s_client -connect localhost:30001 is the prompt
+
+After connecting submit the previous key.
+
+password = JQttfApK4SeyHwDlI9SXGR50qclOAil1
