@@ -31,7 +31,7 @@ password = 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 ## LEVEL -4
 use file ./-* to see which are the files that are readable.we see file07 is readable.
 
-use cat./-file07 to see content.
+use cat ./-file07 to see content.
 
 password = lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
