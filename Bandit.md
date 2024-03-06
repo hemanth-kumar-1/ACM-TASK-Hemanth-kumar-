@@ -12,6 +12,8 @@ use ls to see the files in it. we will se a dash file in it.
 
 To open the dash file use "cat < -" command 
 
+password = rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
 ## LEVEL -2
 use ls command to see files in it.we will see a file with name spaces in this file.
 
