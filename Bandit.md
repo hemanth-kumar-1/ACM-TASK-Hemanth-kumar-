@@ -19,6 +19,8 @@ use ls command to see files in it.we will see a file with name spaces in this fi
 
 To open cat 'spaces in this file' 
 
+password = aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
 ## LEVEL -3
 After moving to the directory inhere.
 
