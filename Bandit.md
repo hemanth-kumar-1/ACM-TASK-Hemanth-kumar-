@@ -29,7 +29,7 @@ There will be a hidden file to open it use 'ls -a' command
 password = 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## LEVEL -4
-use file./* to see which are the files that are readable.we see file07 is readable.
+use file ./-* to see which are the files that are readable.we see file07 is readable.
 
 use cat./-file07 to see content.
 
