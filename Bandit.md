@@ -134,3 +134,14 @@ in output we will see two port numbers are will speack to the ssl.
 when we enter the correct one.
 
 in output we will get a key.
+
+## LEVEL -17
+we should connect with the key we got in the previous level.
+
+after connecting we see two files in it.
+
+we use diff command to note the diff between the files.
+
+cmd = diff passwords.new passwords.old
+
+password = hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
