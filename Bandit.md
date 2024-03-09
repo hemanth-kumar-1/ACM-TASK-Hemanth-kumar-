@@ -145,3 +145,12 @@ we use diff command to note the diff between the files.
 cmd = diff passwords.new passwords.old
 
 password = hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+
+## LEVEL -18
+we will automatically lodded out, when we connect to the server 
+
+so no chance to stay in it 
+
+so we will combine the cat command when we use ssh command itself.
+
+password = awhqfNnAbc1naukrpqDYcF95h7HoMTrC
