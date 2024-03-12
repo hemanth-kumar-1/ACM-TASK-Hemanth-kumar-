@@ -41,3 +41,7 @@ flag = crypto{You_will_be_working_with_hex_strings_a_lot}
 fifth: first convert it into bytes and then encode to hex
 
 flag = crypto/Base+64+Encoding+is+Web+Safe/
+
+sixth: convert it into hexadecimal and then to binary then to ascii
+
+flag = crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}
