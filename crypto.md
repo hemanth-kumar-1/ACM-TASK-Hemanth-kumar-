@@ -34,14 +34,18 @@ third: if we convert the given decimal values to ascii values we obtain key.(by 
 
 flag = crypto{ASCII_pr1nt4bl3}
 
-fourth: given a hexadecimal code convert into decimal then to ascii.
+fourth: given a hexadecimal code convert into decimal then to ascii.(by python prog)
 
 flag = crypto{You_will_be_working_with_hex_strings_a_lot}
 
-fifth: first convert it into bytes and then encode to hex
+fifth: first convert it into bytes and then encode to hex(by python prog)
 
 flag = crypto/Base+64+Encoding+is+Web+Safe/
 
-sixth: convert it into hexadecimal and then to binary then to ascii
+sixth: convert it into hexadecimal and then to binary then to ascii(by python prog)
 
 flag = crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}
+
+seven: first convert the char into decimal value then xor it with 13, convert it again into char.(by python prog)
+
+flag = crypto{aloha}
