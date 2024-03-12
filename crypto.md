@@ -38,3 +38,6 @@ fourth: given a hexadecimal code convert into decimal then to ascii.
 
 flag = crypto{You_will_be_working_with_hex_strings_a_lot}
 
+fifth: first convert it into bytes and then encode to hex
+
+flag = crypto/Base+64+Encoding+is+Web+Safe/
