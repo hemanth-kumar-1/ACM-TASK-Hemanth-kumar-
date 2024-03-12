@@ -23,8 +23,13 @@ password = recr{Demn_You_just_reached_the_fourth_base_XD}
 
 ## Crptohack
 Beginer course
+
 1 st flag is given by them.
 
 for second flag: we should run a code where he is xoring list of number with 50 in decimal.
 
 flag = crypto{z3n_0f_pyth0n}
+
+third: if we convert the given decimal values to ascii values we obtain key.(by python prog)
+
+flag = crypto{ASCII_pr1nt4bl3}
