@@ -20,3 +20,11 @@ Here the cipher text is decoded from sveral bases.
 first the cipher is decoded from base 32,base 58, base 32, base 64.
 
 password = recr{Demn_You_just_reached_the_fourth_base_XD}
+
+## Crptohack
+Beginer course
+1 st flag is given by them.
+
+for second flag: we should run a code where he is xoring list of number with 50 in decimal.
+
+flag = crypto{z3n_0f_pyth0n}
