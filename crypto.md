@@ -35,3 +35,6 @@ third: if we convert the given decimal values to ascii values we obtain key.(by 
 flag = crypto{ASCII_pr1nt4bl3}
 
 fourth: given a hexadecimal code convert into decimal then to ascii.
+
+flag = crypto{You_will_be_working_with_hex_strings_a_lot}
+
