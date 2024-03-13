@@ -35,3 +35,18 @@ for i in a:
     g = chr(e)
     print(g,end="")
 # flag = crypto{aloha}
+
+#Task 8
+key1 = "a6c8b6733c9b22de7bc0253266a3867df55acde8635e19c73313"
+key2_key3 = "c1545756687e7573db23aa1c3452a098b71a7fbf0fddddde5fc1"
+flag_k1_k2_k3 = "04ee9855208a2cd59091d04767ae47963170d1660df7f56f5faf"
+a = int(key1, 16)                   #changes to decimal
+b = int(key2_key3, 16)
+inter = a ^ b                       #xor's the two keys
+c = int(flag_k1_k2_k3, 16)
+final = inter ^ c                   #xoring we obtain hexa of flag
+final_res = hex(final)[2:]
+bytes_of = bytes.fromhex(final_res)
+ascii_ = bytes_of.decode("ASCII")
+print(ascii_)
+# flag = crypto{x0r_i5_ass0c1at1v3}
