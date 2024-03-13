@@ -50,3 +50,13 @@ bytes_of = bytes.fromhex(final_res)
 ascii_ = bytes_of.decode("ASCII")
 print(ascii_)
 # flag = crypto{x0r_i5_ass0c1at1v3}
+
+#Task 9
+from pwn import xor
+given = "73626960647f6b206821204f21254f7d694f7624662065622127234f726927756d"
+python = bytes.fromhex(given)
+for i in range(256):
+    y=xor(python,i).decode()
+    if "crypto" in y:
+        print(y)
+flag = crypto{0x10_15_my_f4v0ur173_by7e}
