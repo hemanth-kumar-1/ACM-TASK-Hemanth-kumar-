@@ -60,3 +60,21 @@ for i in range(256):
     if "crypto" in y:
         print(y)
 flag = crypto{0x10_15_my_f4v0ur173_by7e}
+
+#Task 10
+from pwn import xor
+given = "0e0b213f26041e480b26217f27342e175d0e070a3c5b103e2526217f27342e175d0e077e263451150104"
+givenbytes = bytes.fromhex(given)
+start = "crypto{"                               #to determine first part of the key(first 7 charecters)
+last = "}"                                      #to determine last part of the key(last 1 charecter)
+result = xor(givenbytes,start)                      
+print(result.decode())
+res = xor(givenbytes,last).decode()
+print(res)                                      #therefore key is myXORKey
+final = xor(givenbytes,"myXORkey").decode()
+print(final)
+
+outputs = myXORke+y_QHOMe$~seG8bGURNDFWg)a|TM!an
+          sv\B[yc5v[\ZISj szwA&mCX[\ZISj sz[I,h|y
+          crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}
+flag = crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}
