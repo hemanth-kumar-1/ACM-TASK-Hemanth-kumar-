@@ -1,3 +1,5 @@
+#Written in mips architecture
+
 .text
 main:
 	li $v0,4
