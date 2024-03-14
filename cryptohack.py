@@ -1,4 +1,12 @@
 
+#Task 1
+#flag given by them
+#flag = crypto{y0ur_f1rst_fl4g}
+
+#Task 2
+#I found flag when i run the program provided by them
+#flag = crypto{z3n_0f_pyth0n}
+
 # Task 3
 lst = [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73, 73, 95, 112, 114, 49, 110, 116, 52, 98, 108, 51, 125]
 for i in lst:
